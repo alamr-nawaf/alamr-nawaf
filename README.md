@@ -3,7 +3,7 @@
 ## Nawaf Alamr
 
 University student who is still learning and exploring new skills in tech and development.<br>
-you can see projects .
+you can see here in github some of my projects.
 
 
 
